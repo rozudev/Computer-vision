@@ -1,2 +1,4 @@
 # Computer-vision
-Implimation of CV systems using OpenCV and YOLO for real-time object detection and other computer vision libraries.
+Exploring and making projects about Computer vision, in this project I combined arduino and OpenCV and experimenting with YOLO.
+
+This repository serves as my lab for CV experiments, for my large scale academic research please see my EFSB-Detection_System repository.
